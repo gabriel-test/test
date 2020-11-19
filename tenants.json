@@ -1,0 +1,14 @@
+[
+  {
+    "spDbSchemaName" : "sp_2401400",
+    "wuUrl" : "http://10.21.21.153:80/WebUntis",
+    "schoolName" : "demo01",
+    "tenantId" : "2401400"
+  },
+  {
+    "spDbSchemaName" : "sp_3431400",
+    "wuUrl" : "http://10.21.21.153:80/WebUntis",
+    "schoolName" : "hbltw13",
+    "tenantId" : "3431400"
+  }
+]
