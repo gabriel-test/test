@@ -1,14 +1,14 @@
 [
   {
-    "spDbSchemaName" : "sp_2401400",
-    "wuUrl" : "http://10.0.0.0:80/WebUntis",
-    "schoolName" : "demo01",
-    "tenantId" : "3333333"
+    "spDbSchemaName" : "XXXXXXXX",
+    "wuUrl" : "http://10.X.X.X:XX/XXXXXX",
+    "schoolName" : "XXXXXXXX",
+    "tenantId" : "XXXXXXX"
   },
-  {
-    "spDbSchemaName" : "sp_3431400",
-    "wuUrl" : "http://10.0.0.0:80/WebUntis",
-    "schoolName" : "demo02",
-    "tenantId" : "3333333"
-  }
+    {
+    "spDbSchemaName" : "XXXXXXXX",
+    "wuUrl" : "http://10.X.X.X:XX/XXXXXX",
+    "schoolName" : "XXXXXXXX",
+    "tenantId" : "XXXXXXX"
+  },
 ]
